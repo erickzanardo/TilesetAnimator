@@ -29,7 +29,7 @@
     "ramda": "^0.25.0"
   },
   "devDependencies": {
-    "electron": "^3.0.12",
+    "electron": "^9.4.0",
     "electron-packager": "^13.1.1",
     "eslint": "^4.18.2"
   }
